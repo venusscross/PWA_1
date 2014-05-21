@@ -1,5 +1,5 @@
 /*
-     Name:
+     Name:Venus 	
      Date:
      Class & Section:  PWA1-####
      Comments: "Goal 1: Review of WPF"
@@ -299,8 +299,12 @@ console.log('------ conditionals ----------');
  GOAL
     1. learn if - else
  ********************************************/
-
-
+var weather = 'cloudy';
+ if (weather=='sunny'){
+ bobsmood = 'happy';
+ }else {bobsmood='sad';
+};
+console.log ("If-Else weather;",bobsMood);
 
 
 /*******************************************
@@ -439,7 +443,7 @@ console.log('------Functions ----------');
     - items inside our function we call on these variables.. such as:
  */
 
-
+functionName();
 
 
 /*******************************************
