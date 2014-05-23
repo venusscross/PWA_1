@@ -1,6 +1,6 @@
 /*
-     Name:
-     Date:
+     Name:Venus Cross
+     Date: 05/22/2014
      Class & Section:  PWA1-####
      Comments: "Goal 2: JavaScript Practice"
  */
@@ -503,7 +503,10 @@ console.log('------For Loop ----------');
 			- in the loop just console.log the values
 ********************************************/
 
-
+var myArray=[Superman,Batman, Wolverine, Iceman];
+    for(i=0, j=myArray.length; i++){
+        console.log(myArray[i]);
+    };
 
 /*******************************************
     STUDENT ACTIVITY 8: (More Practice):
