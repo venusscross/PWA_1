@@ -5,3 +5,11 @@
 //Date:May 24,2014
 //Assignment: Debug It
 
+// self executing function
+(function(){
+
+  console.log("FIGHT!!!");
+
+
+
+})();
