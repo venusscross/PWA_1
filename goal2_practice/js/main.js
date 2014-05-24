@@ -503,11 +503,10 @@ console.log('------For Loop ----------');
 			- in the loop just console.log the values
 ********************************************/
 
-var myArray=[Superman,Batman, Wolverine, Iceman];
-    for(i=0, j=myArray.length; i++){
-        console.log(myArray[i]);
-    };
-
+var cartoonPeople=['Superman','Batman','Wolverine','Iceman'];
+ for (var i=0; i<cartoonPeople.length; i++){
+     console.log(cartoonPeople[i]);
+ }
 /*******************************************
     STUDENT ACTIVITY 8: (More Practice):
 
