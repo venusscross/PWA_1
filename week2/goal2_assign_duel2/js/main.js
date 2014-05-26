@@ -24,7 +24,7 @@
 
     var playerOneHealth = 100;
     var playerTwoHealth = 100;
-// start round
+
     var round = 0;
 
 
@@ -48,54 +48,52 @@
             playerOneHealth -= f1;
             playerTwoHealth -= f2;
 
-            
+            //console.log(playerOneHealth);
+            // console.log(playerTwoHealth);
+        }
+        ;
+        console.log(playerOneName + "." + playerOneHealth + playerTwoName + "." + playerTwoHealth);
 
+        var results = winnerCheck();
+        console.log(results);
 
-        console.log(playerOneName + ":" + playerOneHealth + " " + playerTwoName + ":" + playerTwoHealth);
-        //check for victor
-        var result = winnerCheck();
-        console.log(result);
-
-        if (result === "no winner") {
+        if (results === "no winner") {
             round++;
             //noinspection BadExpressionStatementJS
-            alert(playerOneName + ":" + playerOneHealth + "*ROUND* " + round + "OVER" + "*" + playerTwoName + ":" + playerTwoHealth);
+            alert(playerOneName + "." + playerOneHealth + "ROUND" + round + "OVER" + playerTwoName + "." + playerTwoHealth);
         } else {
-            alert(result);
-            break;
+            alert(results);
 
-        };
-    };
-};
+        }
 
 
         function winnerCheck() {
             console.log("in winnerCheck FN");
 
-            var result = "no winner";
+        }
 
-            if (playerOneHealth < 1 && playerTwoHealth < 1) {
-                result = "You Both Die";
+        var result = "no winner";
 
-            } else if (playerOneHealth < 1) {
-                result = playerTwoName + "WINS!!!"
-            } else if (playerTwoHealth < 1) {
-                result = playerOneName + "WINS!!!"
+        if (playerOneHealth < 1 && playerTwoHealth < 1) {
+            result = "You Both Die";
 
-            };
+        } else if (playerOneHealth < 1) {
+            result = playerTwoName + "WINS!!!"
+        } else if (playerTwoHealth < 1) {
+            result = playerOneName + "WINS!!!"
 
-            return result;
-            };
-/*The fight starts here below *******/
+        };
 
 
+        return result;
+
+    };
+
+    // code will go here
 
 
-
-
-
-
+    /*The fight starts here below *******/
     console.log('program starts here');
     fight();
-})();
+});
 
