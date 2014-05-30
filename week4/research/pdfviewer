@@ -1,0 +1,558 @@
+
+<!DOCTYPE html>
+<html id="ctl00__htmlTag" lang="en">
+<head><meta http-equiv="content-type" charset="UTF-8" /><title>
+	Are you down with PHP?: EBSCOhost
+</title><link rel="icon" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/ehost/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/ehost/favicon.ico" type="image/x-icon" />
+
+	<link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/ehost/master_bundle.css" media="All" />
+<link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/page/pdfviewer.css" media="All" />
+<link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/viewer.css" media="All" />
+<link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/viewporttools.css" media="All" />
+<link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/print.css" media="Print" />
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/ie8.css" media="All" /><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/ie7.css" media="All" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/css/_layout2/ie6.css" media="All" /><![endif]-->
+<!--##EPCSS##-->
+	<style type="text/css">
+	
+	
+	.bg-p1 {background-color: #000000 !important;}
+	.color-p1 {color: #000000 !important;}
+	.border-p1 {border-color: #000000 !important;}
+
+	
+	.bg-s1 {background-color: #E85B1F !important;}
+	.color-s1 {color: #E85B1F !important;}
+	.border-s1 {border-color: #E85B1F !important;}
+
+
+	
+	.bg-p2 {background-color: #000000 !important;}
+	.color-p2 {color: #000000 !important;}
+	.border-p2 {border-color: #000000 !important;}
+
+	
+	.bg-s2 {background-color: #E85B1F !important;}
+	.color-s2 {color: #E85B1F !important;}
+	.border-s2 {border-color: #E85B1F !important;}
+
+
+	
+	.bg-p3, .styled-button-c3  {background-color: #E85B1F !important;}
+	.color-p3 {color: #E85B1F !important;}
+	.border-p3, .styled-button-c3  {border-color: #E85B1F !important;}
+
+	
+	.bg-s3 {background-color: #FFFFFF !important;}
+	.color-s3, .styled-button-c3 {color: #FFFFFF !important;}
+	.border-s3 {border-color: #FFFFFF !important;}
+
+
+	
+	.bg-p4 {background-color: #E85B1F !important;}
+	.color-p4 {color: #E85B1F !important;}
+	.border-p4 {border-color: #E85B1F !important;}
+
+	
+	.bg-s4 {background-color: #000000 !important;}
+	.color-s4 {color: #000000 !important;}
+	.border-s4 {border-color: #000000 !important;}
+</style>
+	<script>
+var ep = {"version":"14.2.0.66","baseImagePath":"http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/","brandingPath":"http://imageserver.ebscohost.com.oclc.fullsail.edu:81/branding/","interfaceId":"ehost","cssLayout":2,"messages":{"pdf_view_not_available":"PDF View not available for this selection.","Close":"Close","Loading":"Loading","show_this_area":"Show this area","hide_this_area":"Hide this area","column1-closed":"Show Left Column","column1-open":"Hide Left Column","column2-closed":"Show Right Column","column2-open":"Hide Right Column","field_required":"This field is required.","email_invalid_error":"Please provide a valid email address.","your_subject_may_not_contain_html_markup":"Your subject may not contain HTML markup.","your_comments_may_not_contain_html_markup":"Your comments may not contain HTML markup.","err_sending_email":"Error Sending Email","your_message_may_not_contain_html_markup":"Your message may not contain HTML markup."},"clientData":{"currentRecord":{"Db":"bth","Tag":"AN","Term":"5685487"},"plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685487\u0026site=ehost-live","addThis":{"widgetUrl":"http://s7.addthis.com/js/250/addthis_widget.js#username=ebscohost","bookmarkUrl":"http://www.addthis.com/bookmark.php?v=250\u0026username=ebscohost"}},"templates":{},"pageScripts":["bundled/jqueryplusui.js","bundled/prototype.js","bundled/underscore.js","bundled/_layout2/master.js","bundled/page/pdfviewer.js","ep/util/form.js","jquery/plugins/jquery.ba-resize.js","ep/viewer/ebook/viewer_resize.js","ep/widgets/eppanel.js"],"relativeRequestPath":"pdfviewer/pdfviewer","sid":"07174498-4048-4f39-afbc-e27d0fece8f0@sessionmgr112","vid":1}
+</script>
+<script src="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/javascript/bundled/ep_boot.js"></script>
+<!--[if lt IE 9]>
+<script src="http://smallcontent.ebsco-content.com.oclc.fullsail.edu:81/interfacefiles/14.2.0.66.1/javascript/html5shiv/html5.js"></script>
+<![endif]-->
+<script>
+
+ep.boot(function() {
+	ep.getScreenResolution();
+
+},
+null);
+</script>
+<!--##EPJS##-->
+	</head>
+<body id="ctl00__bodyTag" class="column1-open column2-open viewer limited-scope skin pdfviewer ehost">
+	
+	<div id="epAjaxActive">Loading...</div>
+	<form method="post" action="pdfviewer?sid=07174498-4048-4f39-afbc-e27d0fece8f0%40sessionmgr112&amp;vid=1&amp;hid=121" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="RelRequestPath" id="RelRequestPath" value="pdfviewer/pdfviewer" />
+<input type="hidden" name="IssueDB" id="IssueDB" value="bthish" />
+<input type="hidden" name="IssueSearchTerm" id="IssueSearchTerm" value="" />
+<input type="hidden" name="SelectedVolumeIndex" id="SelectedVolumeIndex" value="-1" />
+<input type="hidden" name="IssueLinkTarget" id="IssueLinkTarget" value="ctl00$Column1$volIssueCtrl$xslDisplay" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__sid" id="__sid" value="07174498-4048-4f39-afbc-e27d0fece8f0@sessionmgr112" />
+<input type="hidden" name="__vid" id="__vid" value="1" />
+<input type="hidden" name="__CUSTOMVIEWSTATE" id="__CUSTOMVIEWSTATE" value="H4sIAAAAAAAEAC2OzU7DQAyEFbfbIi6LVCnHkBeoRAvkBXrigJAA5R7iabPC3ZTshp+nL04Tn+zxeD6fE8vWXG/uimJbPN4/FDalbFVW4riKeMVXjxCfWwYlKe0tp0TJYJlL5Q+G4FWYDYKppQrB7OpW+qPfrNsTfD4O23H4dvhBl4s7ugheh1rVPHw6n594Py3RtCFqpFHSFdHEG/KXpQvuQ9AwX4C3s2ZCa8e0uDQHlRZqn2c3u77r4OO7i4IXL39NtnqDoFZ0OXyFJ8/4pbOW1cjleM//12XfsxABAAA=" />
+<input type="hidden" name="__ScreenResolution" id="__ScreenResolution" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script type="text/javascript">
+<!--
+function XslPostBack(theTarget, theCommand, theArgs) {
+    if (theForm.SelectedVolumeIndex != null)
+    {
+        theForm.SelectedVolumeIndex.value = "-1";
+    }
+    var oHidden = theForm[theTarget+'$args'];
+    if( oHidden != null ) {
+        oHidden.value = theCommand; }
+    __doPostBack(theTarget,theArgs);
+}
+// -->
+</script>
+
+		
+		
+			<p tabindex="0" class="hidden"><a href="javascript:openWideTip('http://support.ebsco.com/help/?int=ehost&lang=en&feature_id=access&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=&dbs=bth')">Accessibility Information and Tips</a> Revised Date: 07/2011</p>
+		
+		<h1 title="Are you down with PHP?" class="hidden">Are you down with PHP?</h1>
+
+		
+			
+		
+		
+		<div id="ViewerWrap">
+			
+			
+
+			<div id="ViewerArea">
+				<div id="ViewerColumn">
+					<div id="ToolPanelContent" class="bg-p2" >
+						<div class="wrapper clearfix"></div>
+						<a href="#" title="Close Panel" class="close-panel"></a>
+					</div>
+					
+<div id="Viewer" class="wrapper">
+	
+	<hr class="vis-none" />
+	<div id="titleBar" class="sub-section-header"><h2 id="selectionTitle">Are you down with PHP?</h2></div>
+	<input id="publicationType" name="publicationType" type="hidden" value="Trade Publication" />
+	<input id="rid" name="rid" type="hidden" value="AN 5685487" />
+	<input id="rdb" name="rdb" type="hidden" value="bth" />
+	<input id="pdfUrl" name="pdfUrl" type="hidden" value="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685487&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SraWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA" />
+
+	
+		<input id="rfs" name="rfs" type="hidden" value="0" />
+		<input id="addVal_0" name="addVal_0" type="hidden" value='{"db":"bth","uiTerm":"5685487","uiTag":"AN","title":"Are you down with PHP?","resultID":"1","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685487\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"321KB","FullTextAvailable":true,"Authors":["Yager, Tom"],"Subjects":["HYPERTEXT systems","PHP (Computer program language)"]}' />
+	
+
+	<div id="viewport" tabindex="0" class="loading border-p1">
+			<iframe id="pdfIframe" width="100%" height="100%" frameborder="0" scrolling="no" > </iframe>		<div id="contentMsg"></div>
+	</div>
+</div>
+
+				</div>
+			</div>
+			<div id="column1" class="collapsible">
+	<a href="#" class="collapsible-toggle" title="Hide_Left_Column"></a>
+	<div class="collapsible-content">
+		<h2 class="hidden">Document Viewing Options:</h2>
+		<ul class="format-control">
+			
+			<li id="formatCitation" class="format-item">
+				<a class="record-type format-citation" href="FormatLink?sid=07174498-4048-4f39-afbc-e27d0fece8f0@sessionmgr112&vid=1&oid=AN 5685487&rdb=bth&rid=AN 5685487&fmt=C" title="Detailed Record">Detailed Record</a>
+			</li>
+			
+			<li class="format-item format-active">
+				<div class="source wrapper">
+					<strong class="record-type pdf-ft">PDF Full Text</strong>
+					
+						<strong>Source:</strong>
+							
+							<span id="source">InfoWorld</span>
+						
+							<span class="publication-date">
+								<strong>Date: </strong>
+								<span id="sourcemonth">December 10, </span>
+								<span id="sourceyear">2001</span>
+							</span>
+						
+				</div>
+
+				<div class="pdf-inside-this-work bg-p1">
+					<h2>Inside this work</h2>
+				</div>
+
+				<div id="sidebar" class="wrapper">
+					<div class="pdf-collapsible-section" style='display:none' >
+						<h3 id="pdfCollapsibleTriggerContents" class="contents bar3 color-p1 collapse-toggle active" title="Hide this area" role="button" aria-controls="contents">
+							<i class="icon rightdown"></i>
+							Full Text Contents
+						</h3>
+						<div class="collapse-content" style="overflow:visible" id="contents" role="region" aria-labelledby="pdfCollapsibleTriggerContents" aria-expanded="true">
+							
+
+<nav role="navigation" id="TOC">
+	<div id="TOCPaging" aria-label="Pagination" class="paginator bg-p1 border-p1" style="display: none"></div>
+	<ul id="TOCItems" aria-label="Table of Contents" class="contentItems">
+	
+		<li class="">
+			<input id="addVal_0" type="hidden" value='{"db":"bth","uiTerm":"5685426","uiTag":"AN","title":"Software customers, know your rights.","resultID":"1","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685426\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"297KB","FullTextAvailable":true,"Authors":["Vizard, Michael"],"Subjects":["COMPUTER industry","CLIENT/SERVER computing","COMPUTER network protocols","Computer and peripheral equipment manufacturing","Electronic Computer Manufacturing","Computer, computer peripheral and pre-packaged software merchant wholesalers","Electronics Stores","Computer and software stores","EQUIPMENT \u0026amp; supplies","EVALUATION"]}' />
+			<input id="folder_0" type="hidden" value="0" />
+			<span class="page-number">10</span>
+			<a id="anchor_0" title="Software customers, know your rights." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685426&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Software customers, ...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_1" type="hidden" value='{"db":"bth","uiTerm":"5685427","uiTag":"AN","title":"The cost of e-business.","resultID":"2","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685427\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"334KB","FullTextAvailable":true,"Authors":["Gomolski, Barb"],"Subjects":["ELECTRONIC commerce","BUSINESS enterprises -- Finance","COST","All other non-depository credit intermediation","Electronic shopping and mail-order houses","Electronic Shopping"]}' />
+			<input id="folder_1" type="hidden" value="0" />
+			<span class="page-number">12</span>
+			<a id="anchor_1" title="The cost of e-business." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685427&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">The cost of e-business.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_2" type="hidden" value='{"db":"bth","uiTerm":"5685431","uiTag":"AN","title":"Lord of the database dance.","resultID":"3","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685431\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"323KB","FullTextAvailable":true,"Authors":["Cringely, Robert X."],"Subjects":["COMPUTER industry -- Employees","EMPLOYEES -- Dismissal of","CALIFORNIA","SAN Francisco (Calif.)","UNITED States","SOCIAL conflict"]}' />
+			<input id="folder_2" type="hidden" value="0" />
+			<span class="page-number">14</span>
+			<a id="anchor_2" title="Lord of the database dance." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685431&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Lord of the database...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_3" type="hidden" value='{"db":"bth","uiTerm":"5685429","uiTag":"AN","title":"Legwork that pays off.","resultID":"4","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685429\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"323KB","FullTextAvailable":true,"Authors":["Dickerson, Chad"],"Subjects":["RATE of return","BUSINESS","FINANCE","ECONOMIC stabilization","CTO Inc."]}' />
+			<input id="folder_3" type="hidden" value="0" />
+			<span class="page-number">14</span>
+			<a id="anchor_3" title="Legwork that pays off." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685429&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Legwork that pays off.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_4" type="hidden" value='{"db":"bth","uiTerm":"5685434","uiTag":"AN","title":"ERP stalwarts fuel integration.","resultID":"5","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685434\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"621KB","FullTextAvailable":true,"Authors":["Grygo, Eugene"],"Subjects":["WEB servers","INFORMATION technology","ACCESS control","EQUIPMENT \u0026amp; supplies"]}' />
+			<input id="folder_4" type="hidden" value="0" />
+			<span class="page-number">17</span>
+			<a id="anchor_4" title="ERP stalwarts fuel integration." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685434&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">ERP stalwarts fuel i...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_5" type="hidden" value='{"db":"bth","uiTerm":"5685439","uiTag":"AN","title":"CA anticipates security exposure.","resultID":"6","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685439\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"334KB","FullTextAvailable":true,"Authors":["Grygo, Eugene"],"Subjects":["INFORMATION technology","COMPUTER network security","WEB servers","ACCESS control","NEW York (State)","NEW York (N.Y.)","UNITED States"]}' />
+			<input id="folder_5" type="hidden" value="0" />
+			<span class="page-number">18</span>
+			<a id="anchor_5" title="CA anticipates security exposure." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685439&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">CA anticipates secur...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_6" type="hidden" value='{"db":"bth","uiTerm":"5685436","uiTag":"AN","title":"Web services will move slowly to ERP.","resultID":"7","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685436\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"334KB","FullTextAvailable":true,"Authors":["La Monica, Martin"],"Subjects":["BUSINESS","COMPUTER software","WEB servers","PLANNING","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Computer and software stores","Computer, computer peripheral and pre-packaged software merchant wholesalers","Software publishers (except video game publishers)","EVALUATION"]}' />
+			<input id="folder_6" type="hidden" value="0" />
+			<span class="page-number">18</span>
+			<a id="anchor_6" title="Web services will move slowly to ERP." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685436&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Web services will mo...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_7" type="hidden" value='{"db":"bth","uiTerm":"5685443","uiTag":"AN","title":"Liberty Alliance bolsters ranks.","resultID":"8","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685443\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"323KB","FullTextAvailable":true,"Authors":["Berger, Matt","Sullivan, Tom","Fonseca, Brian"],"Subjects":["AUTHENTICATION (Law)","INTERNETWORKING (Telecommunication)","STANDARDS","AMERICA Online (Online service)"]}' />
+			<input id="folder_7" type="hidden" value="0" />
+			<span class="page-number">20</span>
+			<a id="anchor_7" title="Liberty Alliance bolsters ranks." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685443&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Liberty Alliance bol...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_8" type="hidden" value='{"db":"bth","uiTerm":"5685449","uiTag":"AN","title":"Click Commerce joins .Net crowd.","resultID":"9","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685449\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"323KB","FullTextAvailable":true,"Authors":["Krill, Paul"],"Subjects":["ELECTRONIC commerce","BUSINESS enterprises","WEB servers","ILLINOIS","CHICAGO (Ill.)","UNITED States","Electronic shopping and mail-order houses","Electronic Shopping"]}' />
+			<input id="folder_8" type="hidden" value="0" />
+			<span class="page-number">20</span>
+			<a id="anchor_8" title="Click Commerce joins .Net crowd." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685449&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Click Commerce joins...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_9" type="hidden" value='{"db":"bth","uiTerm":"5685445","uiTag":"AN","title":"Show touts flexible CDNs.","resultID":"10","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685445\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"323KB","FullTextAvailable":true,"Authors":["Moore, Cathleen","Fonseca, Brian"],"Subjects":["COMPUTER software","WEB servers","NEW York (State)","UNITED States","Computer, computer peripheral and pre-packaged software merchant wholesalers","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Computer and software stores","Software publishers (except video game publishers)","SECURITY measures"]}' />
+			<input id="folder_9" type="hidden" value="0" />
+			<span class="page-number">20</span>
+			<a id="anchor_9" title="Show touts flexible CDNs." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685445&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Show touts flexible ...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_10" type="hidden" value='{"db":"bth","uiTerm":"5685455","uiTag":"AN","title":"SHOW BRIEFS.","resultID":"11","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685455\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"348KB","FullTextAvailable":true,"Authors":["Niccolai, James"],"Subjects":["BUSINESS enterprises","WEB servers","CALIFORNIA","SAN Francisco (Calif.)","UNITED States","ORACLE Corp.","Electrical Contractors and Other Wiring Installation Contractors","ELECTRIC apparatus \u0026amp; appliances -- Installation"]}' />
+			<input id="folder_10" type="hidden" value="0" />
+			<span class="page-number">24</span>
+			<a id="anchor_10" title="SHOW BRIEFS." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685455&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">SHOW BRIEFS.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_11" type="hidden" value='{"db":"bth","uiTerm":"5685453","uiTag":"AN","title":"Ellison reignites DB wars.","resultID":"12","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685453\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"348KB","FullTextAvailable":true,"Authors":["Schwartz, Ephraim","Niccolai, James"],"Subjects":["BUSINESS enterprises","DATABASES","WEB servers","CALIFORNIA","SAN Francisco (Calif.)","UNITED States"]}' />
+			<input id="folder_11" type="hidden" value="0" />
+			<span class="page-number">24</span>
+			<a id="anchor_11" title="Ellison reignites DB wars." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685453&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Ellison reignites DB...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_12" type="hidden" value='{"db":"bth","uiTerm":"5685451","uiTag":"AN","title":"BEA to renew developer push.","resultID":"13","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685451\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"348KB","FullTextAvailable":true,"Authors":["Sullivan, Tom"],"Subjects":["COMPUTER networks","WEBSITES","BEA Systems Inc.","Internet Publishing and Broadcasting and Web Search Portals","DESIGN","COMPUTER network resources"]}' />
+			<input id="folder_12" type="hidden" value="0" />
+			<span class="page-number">24</span>
+			<a id="anchor_12" title="BEA to renew developer push." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685451&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">BEA to renew develop...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_13" type="hidden" value='{"db":"bth","uiTerm":"5685458","uiTag":"AN","title":"HP propels blades standards.","resultID":"14","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685458\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"339KB","FullTextAvailable":true,"Authors":["Neel, Dan"],"Subjects":["COMPUTER networks","PRODUCT lines","CALIFORNIA","PALO Alto (Calif.)","UNITED States","HEWLETT-Packard Co.","COMPETITION","DESIGN"]}' />
+			<input id="folder_13" type="hidden" value="0" />
+			<span class="page-number">26</span>
+			<a id="anchor_13" title="HP propels blades standards." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685458&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">HP propels blades st...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_14" type="hidden" value='{"db":"bth","uiTerm":"5685459","uiTag":"AN","title":"SQL data store orbits.Net.","resultID":"15","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685459\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"339KB","FullTextAvailable":true,"Authors":["Sullivan, Tom"],"Subjects":["COMPUTER software","SQL (Computer program language)","Software publishers (except video game publishers)","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Computer and software stores","Computer, computer peripheral and pre-packaged software merchant wholesalers","EVALUATION","SOFTWARE"]}' />
+			<input id="folder_14" type="hidden" value="0" />
+			<span class="page-number">26</span>
+			<a id="anchor_14" title="SQL data store orbits.Net." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685459&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">SQL data store orbit...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_15" type="hidden" value='{"db":"bth","uiTerm":"5685460","uiTag":"AN","title":"BUSINESS BRIEFS.","resultID":"16","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685460\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"339KB","FullTextAvailable":true,"Authors":[],"Subjects":["PRODUCTION (Economic theory)","INFRASTRUCTURE (Economics)","HEWLETT-Packard Co.","PRICEWATERHOUSECOOPERS LLP"]}' />
+			<input id="folder_15" type="hidden" value="0" />
+			<span class="page-number">26</span>
+			<a id="anchor_15" title="BUSINESS BRIEFS." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685460&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">BUSINESS BRIEFS.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_16" type="hidden" value='{"db":"bth","uiTerm":"5685463","uiTag":"AN","title":"Cisco looks to Web apps, fiber optics.","resultID":"17","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685463\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"328KB","FullTextAvailable":true,"Authors":["Lee, Stephen"],"Subjects":["COMPUTER networks","FIBER optics","TECHNOLOGICAL innovations","EQUIPMENT \u0026amp; supplies"]}' />
+			<input id="folder_16" type="hidden" value="0" />
+			<span class="page-number">28</span>
+			<a id="anchor_16" title="Cisco looks to Web apps, fiber optics." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685463&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Cisco looks to Web a...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_17" type="hidden" value='{"db":"bth","uiTerm":"5685464","uiTag":"AN","title":"Smart routing on the rise.","resultID":"18","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685464\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"328KB","FullTextAvailable":true,"Authors":["Lee, Stephen"],"Subjects":["OPERATING systems (Computers)","COST","Software Publishers","Software publishers (except video game publishers)","COMPUTER network software"]}' />
+			<input id="folder_17" type="hidden" value="0" />
+			<span class="page-number">28</span>
+			<a id="anchor_17" title="Smart routing on the rise." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685464&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Smart routing on the...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_18" type="hidden" value='{"db":"bth","uiTerm":"5685465","uiTag":"AN","title":"ETHERNET GOES FOR THE LONG HAUL.","resultID":"19","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685465\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"328KB","FullTextAvailable":true,"Authors":["Leon, Mark"],"Subjects":["ETHERNET (Local area network system)","COMPUTER networks","XO Communications Inc."]}' />
+			<input id="folder_18" type="hidden" value="0" />
+			<span class="page-number">28</span>
+			<a id="anchor_18" title="ETHERNET GOES FOR THE LONG HAUL." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685465&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">ETHERNET GOES FOR TH...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_19" type="hidden" value='{"db":"bth","uiTerm":"5685466","uiTag":"AN","title":"Excite@Home strands users.","resultID":"20","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685466\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"205KB","FullTextAvailable":true,"Authors":["Chidi, George A."],"Subjects":["BANKRUPTCY","CALIFORNIA","REDWOOD City (Calif.)","UNITED States","ISP Excite@Home (Company)","AT\u0026amp;T Business Network (Company)"]}' />
+			<input id="folder_19" type="hidden" value="0" />
+			<span class="page-number">30</span>
+			<a id="anchor_19" title="Excite@Home strands users." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685466&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Excite@Home strands ...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_20" type="hidden" value='{"db":"bth","uiTerm":"5685467","uiTag":"AN","title":"E-learning leaps into the limelight.","resultID":"21","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685467\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"317KB","FullTextAvailable":true,"Authors":["Moore, Cathleen"],"Subjects":["COMPUTER software","IDC (Company)","Computer, computer peripheral and pre-packaged software merchant wholesalers","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Software publishers (except video game publishers)","Computer and software stores"]}' />
+			<input id="folder_20" type="hidden" value="0" />
+			<span class="page-number">32</span>
+			<a id="anchor_20" title="E-learning leaps into the limelight." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685467&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">E-learning leaps int...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_21" type="hidden" value='{"db":"bth","uiTerm":"5685470","uiTag":"AN","title":"One word: Plastics.","resultID":"22","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685470\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"268KB","FullTextAvailable":true,"Authors":[],"Subjects":["COMPUTER software","SPECIALCHEM SA","Computer, computer peripheral and pre-packaged software merchant wholesalers","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Software publishers (except video game publishers)","Computer and software stores","MURPHY, Bill"]}' />
+			<input id="folder_21" type="hidden" value="0" />
+			<span class="page-number">34</span>
+			<a id="anchor_21" title="One word: Plastics." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685470&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">One word: Plastics.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_22" type="hidden" value='{"db":"bth","uiTerm":"5685471","uiTag":"AN","title":"Coming together.","resultID":"23","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685471\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"826KB","FullTextAvailable":true,"Authors":["Sanborn, Stephanie","Moore, Cathleen"],"Subjects":["COMPUTER software","TECHNOLOGY","Computer, computer peripheral and pre-packaged software merchant wholesalers","Software publishers (except video game publishers)","Computer and software stores","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"]}' />
+			<input id="folder_22" type="hidden" value="0" />
+			<span class="page-number">36</span>
+			<a id="anchor_22" title="Coming together." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685471&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Coming together.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_23" type="hidden" value='{"db":"bth","uiTerm":"5685472","uiTag":"AN","title":"WIRELESS COLLABORATION DEEPENS VALUE.","resultID":"24","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685472\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"308KB","FullTextAvailable":true,"Authors":["Moore, Cathleen"],"Subjects":["ELECTRONIC data interchange","LABOR supply","FLORIDA","UNITED States","Temporary Help Services"]}' />
+			<input id="folder_23" type="hidden" value="0" />
+			<span class="page-number">38</span>
+			<a id="anchor_23" title="WIRELESS COLLABORATION DEEPENS VALUE." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685472&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">WIRELESS COLLABORATI...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_24" type="hidden" value='{"db":"bth","uiTerm":"5685475","uiTag":"AN","title":"Security for hire.","resultID":"25","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685475\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"599KB","FullTextAvailable":true,"Authors":["Hayes, Heather B."],"Subjects":["INFORMATION technology","CONTRACTING out","SECURITIES","UNITED States","Securities Brokerage","Investment Banking and Securities Dealing"]}' />
+			<input id="folder_24" type="hidden" value="0" />
+			<span class="page-number">42</span>
+			<a id="anchor_24" title="Security for hire." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685475&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Security for hire.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_25" type="hidden" value='{"db":"bth","uiTerm":"5685478","uiTag":"AN","title":"The craft of CRM.","resultID":"26","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685478\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"313KB","FullTextAvailable":true,"Authors":["Lewis, Bob"],"Subjects":["CONSUMERS","BUSINESS"]}' />
+			<input id="folder_25" type="hidden" value="0" />
+			<span class="page-number">46</span>
+			<a id="anchor_25" title="The craft of CRM." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685478&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">The craft of CRM.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_26" type="hidden" value='{"db":"bth","uiTerm":"5685479","uiTag":"AN","title":"More LCD tuning tricks.","resultID":"27","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685479\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"313KB","FullTextAvailable":true,"Authors":["Livingston, Brian"],"Subjects":["Other Electronic Component Manufacturing","Semiconductor and other electronic component manufacturing","LIQUID crystal displays","INTERPOLATION"]}' />
+			<input id="folder_26" type="hidden" value="0" />
+			<span class="page-number">46</span>
+			<a id="anchor_26" title="More LCD tuning tricks." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685479&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">More LCD tuning tricks.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_27" type="hidden" value='{"db":"bth","uiTerm":"5685482","uiTag":"AN","title":"Microsoft casts its server .Net, but will customers bite?","resultID":"28","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685482\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"625KB","FullTextAvailable":true,"Authors":["Connolly, P.J."],"Subjects":["WEB servers","MICROSOFT Corp."]}' />
+			<input id="folder_27" type="hidden" value="0" />
+			<span class="page-number">49</span>
+			<a id="anchor_27" title="Microsoft casts its server .Net, but will customers bite?" href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685482&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Microsoft casts its ...</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_28" type="hidden" value='{"db":"bth","uiTerm":"5685485","uiTag":"AN","title":"Across the enterprise.","resultID":"29","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685485\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"326KB","FullTextAvailable":true,"Authors":["Biggs, Maggie"],"Subjects":["COMPUTER software","INFORMATICA Corp.","Computer, computer peripheral and pre-packaged software merchant wholesalers","Software publishers (except video game publishers)","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Computer and software stores"]}' />
+			<input id="folder_28" type="hidden" value="0" />
+			<span class="page-number">52</span>
+			<a id="anchor_28" title="Across the enterprise." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685485&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Across the enterprise.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_29" type="hidden" value='{"db":"bth","uiTerm":"5685487","uiTag":"AN","title":"Are you down with PHP?","resultID":"30","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685487\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"321KB","FullTextAvailable":true,"Authors":["Yager, Tom"],"Subjects":["HYPERTEXT systems","PHP (Computer program language)"]}' />
+			<input id="folder_29" type="hidden" value="0" />
+			<span class="page-number">54</span>
+			<a id="anchor_29" title="Are you down with PHP?" href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685487&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Are you down with PHP?</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_30" type="hidden" value='{"db":"bth","uiTerm":"5685489","uiTag":"AN","title":"Scale without hardware.","resultID":"31","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685489\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"323KB","FullTextAvailable":true,"Authors":["Biggs, Maggie"],"Subjects":["COMPUTER software","ZEND Technologies Ltd.","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers","Software publishers (except video game publishers)","Computer and software stores","Computer, computer peripheral and pre-packaged software merchant wholesalers"]}' />
+			<input id="folder_30" type="hidden" value="0" />
+			<span class="page-number">56</span>
+			<a id="anchor_30" title="Scale without hardware." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685489&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Scale without hardware.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_31" type="hidden" value='{"db":"bth","uiTerm":"5685491","uiTag":"AN","title":"Storage made too easy.","resultID":"32","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685491\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"320KB","FullTextAvailable":true,"Authors":["Maddox, Tom"],"Subjects":["WEB servers","QUANTUM Corp."]}' />
+			<input id="folder_31" type="hidden" value="0" />
+			<span class="page-number">58</span>
+			<a id="anchor_31" title="Storage made too easy." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685491&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Storage made too easy.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_32" type="hidden" value='{"db":"bth","uiTerm":"5685514","uiTag":"AN","title":"In the name of quality.","resultID":"33","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685514\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"320KB","FullTextAvailable":true,"Authors":["Pavlicek, Russell"],"Subjects":["OCCUPATIONS","OPEN source software"]}' />
+			<input id="folder_32" type="hidden" value="0" />
+			<span class="page-number">60</span>
+			<a id="anchor_32" title="In the name of quality." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685514&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">In the name of quality.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_33" type="hidden" value='{"db":"bth","uiTerm":"5685517","uiTag":"AN","title":"The magic of handhelds.","resultID":"34","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685517\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"320KB","FullTextAvailable":true,"Authors":["Schwartz, Ephraim"],"Subjects":["POCKET computers","CELL phones","Wireless Telecommunications Carriers (except Satellite)","Electronics Stores","Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing","Electronic components, navigational and communications equipment and supplies merchant wholesalers"]}' />
+			<input id="folder_33" type="hidden" value="0" />
+			<span class="page-number">60</span>
+			<a id="anchor_33" title="The magic of handhelds." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685517&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">The magic of handhelds.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_34" type="hidden" value='{"db":"bth","uiTerm":"5685519","uiTag":"AN","title":"Your best foot foward.","resultID":"35","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685519\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"316KB","FullTextAvailable":true,"Authors":["Borck, James R."],"Subjects":["RELATIONSHIP marketing","BUSINESS enterprises","CUSTOMER satisfaction"]}' />
+			<input id="folder_34" type="hidden" value="0" />
+			<span class="page-number">62</span>
+			<a id="anchor_34" title="Your best foot foward." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685519&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Your best foot foward.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_35" type="hidden" value='{"db":"bth","uiTerm":"5685521","uiTag":"AN","title":"Magic Lantern concerns.","resultID":"36","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685521\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"316KB","FullTextAvailable":true,"Authors":["Connolyy, P.J."],"Subjects":["SECURITY systems","UNITED States","Security Systems Services (except Locksmiths)","LAW enforcement"]}' />
+			<input id="folder_35" type="hidden" value="0" />
+			<span class="page-number">62</span>
+			<a id="anchor_35" title="Magic Lantern concerns." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685521&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Magic Lantern concerns.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_36" type="hidden" value='{"db":"bth","uiTerm":"5685524","uiTag":"AN","title":"Riding into the sunset.","resultID":"37","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685524\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"303KB","FullTextAvailable":true,"Authors":["Foster, Ed"],"Subjects":["NEW product development","VENDORS (Real property)","Marketing Consulting Services"]}' />
+			<input id="folder_36" type="hidden" value="0" />
+			<span class="page-number">72</span>
+			<a id="anchor_36" title="Riding into the sunset." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685524&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Riding into the sunset.</a>
+		</li>
+	
+		<li class="">
+			<input id="addVal_37" type="hidden" value='{"db":"bth","uiTerm":"5685527","uiTag":"AN","title":"Mercedes bends.","resultID":"38","segid":"","plink":"http://search.ebscohost.com.oclc.fullsail.edu:81/login.aspx?direct=true\u0026db=bth\u0026AN=5685527\u0026site=ehost-live","JournalMonthAndDate":"December 10, ","JournalYear":"2001","PdfSize":"297KB","FullTextAvailable":true,"Authors":["Gillmor, Steve"],"Subjects":["CONFERENCES \u0026amp; conventions","WEBSITES","CALIFORNIA","SAN Francisco (Calif.)","UNITED States","Convention and Trade Show Organizers","Internet Publishing and Broadcasting and Web Search Portals"]}' />
+			<input id="folder_37" type="hidden" value="0" />
+			<span class="page-number">74</span>
+			<a id="anchor_37" title="Mercedes bends." href="http://content.ebscohost.com.oclc.fullsail.edu:81/ContentServer.asp?T=P&amp;P=AN&amp;K=5685527&amp;S=R&amp;D=bth&amp;EbscoContent=dGJyMNXb4kSeqLY4y9f3OLCmr0yeqK9SsKq4SreWxWXS&amp;ContentCustomer=dGJyMPGvr0izqbdJuePfgeyx44Dt6fIA">Mercedes bends.</a>
+		</li>
+	
+	</ul>
+	
+</nav>
+
+						</div>
+					</div>
+				
+					<div class="pdf-collapsible-section">
+						<h3 id="pdfCollapsibleTriggerIllustrations" class="illustrations bar3 color-p1 collapse-toggle" title="Show this area" role="button" aria-controls="illustrations">
+							<span class="arrow"></span>
+							Illustrations
+						</h3>
+						<div style="overflow: visible; display: none;" class="collapse-content txt3" id="illustrations" role="region" aria-labelledby="pdfCollapsibleTriggerIllustrations" aria-expanded="false">
+							
+
+<nav id="illustrationsPaging" role="navigation" class="paginator" style="display: none">
+</nav>
+<ul id="illustrationsItems" style="display:block">
+
+	<li>
+		<a href="#39"><img class="imgview-thumb" alt="Chart" src="http://largecontent.ebsco-content.com.oclc.fullsail.edu:81/imageqv/6816df15b688923d4fac0b5a1a02a760/53868c4d/small_thumb/3pvf/20080201/5685487.jpg" /></a>
+	</li>
+
+	<li></li>
+</ul>
+
+						</div>
+					</div>
+					
+					
+					
+				</div>
+			</li>
+			<li id="formatHTMLFT" class="format-item" style="display:block">
+				<a class="record-type html-ft" href="FormatLink?sid=07174498-4048-4f39-afbc-e27d0fece8f0@sessionmgr112&vid=1&oid=AN 5685487&rdb=bth&rid=AN 5685487&fmt=T" title="HTML Full Text">HTML Full Text</a>
+			</li>
+			
+		</ul>
+	</div>
+
+			</div>
+			<div id="column2" class="collapsible">
+	<a href="#" class="collapsible-toggle" title="Hide_Right_Column"></a>
+	<hr class="vis-none" />
+<h2 title="Tools" accesskey="5" tabindex="0" class="article-tools-header" id="ArticleTools">Tools</h2>
+<ul class="article-tools delivery-control">
+	<li class="article-tool">
+		<a href="#" title="Print" class="iconElem print-link"    data-panel='{"Id":"print","Url":"delivery/printpanel","Js":"ep/controller/control/citationdeliverypanel.js"}'>Print</a>
+	</li>
+	<li class="article-tool">
+		<a href="#" title="E-mail" class="iconElem email-link"    data-panel='{"Id":"email","Url":"delivery/emailpanel","Js":"ep/controller/control/citationdeliverypanel.js"}'>E-mail</a>
+	</li>
+	<li class="article-tool">
+		<a href="#" title="Cite" class="iconElem cite-link"    data-panel='{"Id":"cite","Url":"delivery/citepanel","Js":"ep/controller/control/citepanel.js"}'>Cite</a>
+	</li>
+	<li class="article-tool">
+		<a href="#" title="Export" class="iconElem export-link"    data-panel='{"Id":"export","Url":"/ehost/delivery/exportpanel?sid=07174498-4048-4f39-afbc-e27d0fece8f0@sessionmgr112\u0026vid=1\u0026form=False","Js":"ep/controller/control/exportpanel.js"}'>Export</a>
+	</li>
+	<li class="article-tool">
+		<a href="#" title="Permalink" class="iconElem permalink-link"    data-panel='{"Id":"permalink","Url":"delivery/permalinkpanel","Js":"ep/controller/control/plinkpanel.js"}'>Permalink</a>
+	</li>
+	<li class="article-tool">
+		<a href="#" title="Share" class="iconElem bookmark-link"    data-panel='{"Id":"bookmark","Url":"addthis/addthispanel","Js":"ep/controller/control/bookmarkpanel.js"}'>Share</a>
+	</li>
+</ul>
+</div>
+		</div>
+	
+<script type="text/javascript">
+//<![CDATA[
+var IssueSearchTerms =  new Array("ID %22InfoWorld%22 AND YR Apr 2007","ID %22InfoWorld%22 AND YR Mar 2007","ID %22InfoWorld%22 AND YR Feb 2007","ID %22InfoWorld%22 AND YR Jan 2007","ID %22InfoWorld%22 AND YR Dec 2006","ID %22InfoWorld%22 AND YR Nov 2006","ID %22InfoWorld%22 AND YR Oct 2006","ID %22InfoWorld%22 AND YR Sep 2006","ID %22InfoWorld%22 AND YR Aug 2006","ID %22InfoWorld%22 AND YR Jul 2006","ID %22InfoWorld%22 AND YR Jun 2006","ID %22InfoWorld%22 AND YR May 2006","ID %22InfoWorld%22 AND YR Apr 2006","ID %22InfoWorld%22 AND YR Mar 2006","ID %22InfoWorld%22 AND YR Feb 2006","ID %22InfoWorld%22 AND YR Jan 2006","ID %22InfoWorld%22 AND YR Dec 2005","ID %22InfoWorld%22 AND YR Nov 2005","ID %22InfoWorld%22 AND YR Oct 2005","ID %22InfoWorld%22 AND YR Sep 2005","ID %22InfoWorld%22 AND YR Aug 2005","ID %22InfoWorld%22 AND YR Jul 2005","ID %22InfoWorld%22 AND YR Jun 2005","ID %22InfoWorld%22 AND YR May 2005","ID %22InfoWorld%22 AND YR Apr 2005","ID %22InfoWorld%22 AND YR Mar 2005","ID %22InfoWorld%22 AND YR Feb 2005","ID %22InfoWorld%22 AND YR Jan 2005","ID %22InfoWorld%22 AND YR Dec 2004","ID %22InfoWorld%22 AND YR Nov 2004","ID %22InfoWorld%22 AND YR Oct 2004","ID %22InfoWorld%22 AND YR Sep 2004","ID %22InfoWorld%22 AND YR Aug 2004","ID %22InfoWorld%22 AND YR Jul 2004","ID %22InfoWorld%22 AND YR Jun 2004","ID %22InfoWorld%22 AND YR May 2004","ID %22InfoWorld%22 AND YR Apr 2004","ID %22InfoWorld%22 AND YR Mar 2004","ID %22InfoWorld%22 AND YR Feb 2004","ID %22InfoWorld%22 AND YR Jan 2004","ID %22InfoWorld%22 AND YR Dec 2003","ID %22InfoWorld%22 AND YR Nov 2003","ID %22InfoWorld%22 AND YR Oct 2003","ID %22InfoWorld%22 AND YR Sep 2003","ID %22InfoWorld%22 AND YR Aug 2003","ID %22InfoWorld%22 AND YR Jul 2003","ID %22InfoWorld%22 AND YR Jun 2003","ID %22InfoWorld%22 AND YR May 2003","ID %22InfoWorld%22 AND YR Apr 2003","ID %22InfoWorld%22 AND YR Mar 2003","ID %22InfoWorld%22 AND YR Feb 2003","ID %22InfoWorld%22 AND YR Jan 2003","ID %22InfoWorld%22 AND YR Dec 2002","ID %22InfoWorld%22 AND YR Nov 2002","ID %22InfoWorld%22 AND YR Oct 2002","ID %22InfoWorld%22 AND YR Sep 2002","ID %22InfoWorld%22 AND YR Aug 2002","ID %22InfoWorld%22 AND YR Jul 2002","ID %22InfoWorld%22 AND YR Jun 2002","ID %22InfoWorld%22 AND YR May 2002","ID %22InfoWorld%22 AND YR Apr 2002","ID %22InfoWorld%22 AND YR Mar 2002","ID %22InfoWorld%22 AND YR Feb 2002","ID %22InfoWorld%22 AND YR Jan 2002","ID %22InfoWorld%22 AND YR Dec 2001","ID %22InfoWorld%22 AND YR Nov 2001","ID %22InfoWorld%22 AND YR Oct 2001","ID %22InfoWorld%22 AND YR Sep 2001","ID %22InfoWorld%22 AND YR Aug 2001","ID %22InfoWorld%22 AND YR Jul 2001","ID %22InfoWorld%22 AND YR Jun 2001","ID %22InfoWorld%22 AND YR May 2001","ID %22InfoWorld%22 AND YR Apr 2001","ID %22InfoWorld%22 AND YR Mar 2001","ID %22InfoWorld%22 AND YR Feb 2001","ID %22InfoWorld%22 AND YR Jan 2001","ID %22InfoWorld%22 AND YR Dec 2000","ID %22InfoWorld%22 AND YR Nov 2000","ID %22InfoWorld%22 AND YR Oct 2000","ID %22InfoWorld%22 AND YR Sep 2000","ID %22InfoWorld%22 AND YR Aug 2000","ID %22InfoWorld%22 AND YR Jul 2000","ID %22InfoWorld%22 AND YR Jun 2000","ID %22InfoWorld%22 AND YR May 2000","ID %22InfoWorld%22 AND YR Apr 2000","ID %22InfoWorld%22 AND YR Mar 2000","ID %22InfoWorld%22 AND YR Feb 2000","ID %22InfoWorld%22 AND YR Jan 2000","ID %22InfoWorld%22 AND YR Dec 1999","ID %22InfoWorld%22 AND YR Nov 1999","ID %22InfoWorld%22 AND YR Oct 1999","ID %22InfoWorld%22 AND YR Sep 1999","ID %22InfoWorld%22 AND YR Aug 1999","ID %22InfoWorld%22 AND YR Jul 1999","ID %22InfoWorld%22 AND YR Jun 1999","ID %22InfoWorld%22 AND YR May 1999","ID %22InfoWorld%22 AND YR Apr 1999","ID %22InfoWorld%22 AND YR Mar 1999","ID %22InfoWorld%22 AND YR Feb 1999","ID %22InfoWorld%22 AND YR Jan 1999","ID %22InfoWorld%22 AND YR Dec 1998","ID %22InfoWorld%22 AND YR Nov 1998","ID %22InfoWorld%22 AND YR Oct 1998","ID %22InfoWorld%22 AND YR Sep 1998","ID %22InfoWorld%22 AND YR Aug 1998","ID %22InfoWorld%22 AND YR Jul 1998","ID %22InfoWorld%22 AND YR Jun 1998","ID %22InfoWorld%22 AND YR May 1998","ID %22InfoWorld%22 AND YR Apr 1998","ID %22InfoWorld%22 AND YR Mar 1998","ID %22InfoWorld%22 AND YR Feb 1998","ID %22InfoWorld%22 AND YR Jan 1998","ID %22InfoWorld%22 AND YR Dec 1997","ID %22InfoWorld%22 AND YR Nov 1997","ID %22InfoWorld%22 AND YR Oct 1997","ID %22InfoWorld%22 AND YR Sep 1997","ID %22InfoWorld%22 AND YR Aug 1997","ID %22InfoWorld%22 AND YR Jul 1997","ID %22InfoWorld%22 AND YR Jun 1997","ID %22InfoWorld%22 AND YR May 1997","ID %22InfoWorld%22 AND YR Apr 1997","ID %22InfoWorld%22 AND YR Mar 1997","ID %22InfoWorld%22 AND YR Feb 1997","ID %22InfoWorld%22 AND YR Jan 1997","ID %22InfoWorld%22 AND YR Dec 1996","ID %22InfoWorld%22 AND YR Nov 1996","ID %22InfoWorld%22 AND YR Oct 1996","ID %22InfoWorld%22 AND YR Sep 1996","ID %22InfoWorld%22 AND YR Aug 1996","ID %22InfoWorld%22 AND YR Jul 1996","ID %22InfoWorld%22 AND YR Jun 1996","ID %22InfoWorld%22 AND YR May 1996","ID %22InfoWorld%22 AND YR Apr 1996","ID %22InfoWorld%22 AND YR Mar 1996","ID %22InfoWorld%22 AND YR Feb 1996","ID %22InfoWorld%22 AND YR Jan 1996","ID %22InfoWorld%22 AND YR Dec 1995","ID %22InfoWorld%22 AND YR Nov 1995","ID %22InfoWorld%22 AND YR Oct 1995","ID %22InfoWorld%22 AND YR Sep 1995","ID %22InfoWorld%22 AND YR Aug 1995","ID %22InfoWorld%22 AND YR Jul 1995","ID %22InfoWorld%22 AND YR Jun 1995","ID %22InfoWorld%22 AND YR May 1995","ID %22InfoWorld%22 AND YR Apr 1995","ID %22InfoWorld%22 AND YR Mar 1995","ID %22InfoWorld%22 AND YR Feb 1995","ID %22InfoWorld%22 AND YR Jan 1995","ID %22InfoWorld%22 AND YR Dec 1994","ID %22InfoWorld%22 AND YR Nov 1994","ID %22InfoWorld%22 AND YR Oct 1994","ID %22InfoWorld%22 AND YR Sep 1994","ID %22InfoWorld%22 AND YR Aug 1994","ID %22InfoWorld%22 AND YR Jul 1994","ID %22InfoWorld%22 AND YR Jun 1994","ID %22InfoWorld%22 AND YR May 1994","ID %22InfoWorld%22 AND YR Apr 1994","ID %22InfoWorld%22 AND YR Mar 1994","ID %22InfoWorld%22 AND YR Feb 1994","ID %22InfoWorld%22 AND YR Jan 1994","ID %22InfoWorld%22 AND YR Dec 1993","ID %22InfoWorld%22 AND YR Nov 1993","ID %22InfoWorld%22 AND YR Oct 1993","ID %22InfoWorld%22 AND YR Sep 1993","ID %22InfoWorld%22 AND YR Aug 1993","ID %22InfoWorld%22 AND YR Jul 1993");
+//]]>
+</script>
+</form>
+
+</body>
+</html>
