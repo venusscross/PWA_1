@@ -29,7 +29,7 @@
 */
 
 	// get the location of the blog button
-
+    var button = document.getElementById("blog_btn");
 
 /************************************************************************
     Blog constructor:
@@ -67,7 +67,12 @@
         local variable within the constructor
  -----------------------------------------------------------------------
  */
-
+    var Blog = function(str, date){
+        console.log(this);
+        this.body=str;
+        this.date=date;
+         console.log("str is equal to:",str);
+};       console.log(" 'this.body 'is equal to:", this.body);
 
     // array of blog items
     // each blog item will use the Blog constructor as its template to create each
@@ -76,12 +81,12 @@
     // manually create an object using the Blog constructor to establish the objects
     //      structure and display all the information in the body of the HTML
 
-    //    var blog = [
-    //        new Blog('Learned about functions, and how to pass parameters into them.', '04/2/2013'),
-    //        new Blog('Learned about objects, and how to set keys and get values.', '04/15/2013'),
-    //        new Blog('I love reading regular expressions.  I normally read a few lines right before falling asleep.  It is really good sleeping material.', '04/18/2013'),
-    //        new Blog('What\'s all this new object stuff (i.e THIS, prototype, etc...)', '08/21/2008')
-    //    ];
+        var blog = [
+          new Blog('Learned about functions, and how to pass parameters into them.', '04/2/2013'),
+          new Blog('Learned about objects, and how to set keys and get values.', '04/15/2013'),
+          new Blog('I love reading regular expressions.  I normally read a few lines right before falling asleep.  It is really good sleeping material.', '04/18/2013'),
+          new Blog('What\'s all this new object stuff (i.e THIS, prototype, etc...)', '08/21/2008')
+     ];
 
 
 
