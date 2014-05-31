@@ -38,9 +38,20 @@
     interval= setInterval(runUpdate, 1000/30);
 
     function populateHTML(date, field){
+        var id=document.getElementById(field);
+        id.innerHTML = data;
+    }
 
+
+
+    function runUpdate(){
+        people.forEach(function(element){
+            //console.log (element);
+            element.update();
+
+        });
 
     }
-}
+})();
 
 
