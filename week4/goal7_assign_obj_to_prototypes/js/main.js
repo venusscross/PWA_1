@@ -1,7 +1,7 @@
 /**
  * Created by the JavaScript Development Team
  * Class: PWA
- * Goal: Goal7
+ * Goal: Goal7  Advanced Objects Venus Cross May 30, 2014
  */
 
 
@@ -10,7 +10,7 @@
     //variables
     var numofPeople = 5;
     var people =[];
-    var names = ["JAZMIN,BRIANA,WANDA,KARIEL,KIA"];
+    var names = ["Jazmin","Briana","Wanda","Kariel","Kia"];
     var interval;
 
     //loops
@@ -19,7 +19,8 @@
 
         // using NEW reserved words
 
-        var person = new Person(names[PersonIndex],i+1);
+        var person = new Person(names[personIndex],i+0);
+        //new constructor[([arguments])]
 
 
         populateHTML(person.name, "r"+(i+1)+"c1");
@@ -27,16 +28,16 @@
 
 
         people.push(person);
-        names.splice(personIndex, 1);
+        names.splice(personIndex,1);
 
     }
     // one at a time intervals
 
     clearInterval(interval);
 
-    interval= setInterval(runUpdate, 1000/30);
+    interval= setInterval(runUpdate, 1000 / 30);
 
-    function populateHTML(date, field){
+    function populateHTML(data, field){
         var id=document.getElementById(field);
         id.innerHTML = data;
     }
