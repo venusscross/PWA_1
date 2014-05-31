@@ -12,7 +12,7 @@
     Person.jobs = ["doctor, lawyer, dancer, cook"];
     Person.actions = ["reading","cooking","sewing"];
 
-    function Person(name, row{
+    function Person(name, row){
 
         console.log("Person Created: ",name);
 
@@ -31,8 +31,14 @@
     }
 
     Person.prototype.update = function(){
-        if (math.floor(Math.random() <.01)){
-            
+        if (math.floor(Math.random() <.01)) {
+            var i = Math.floor(Math.random() * Person.actions.length);
+            this.action = Person.actions[i];
+            var id = document.getElementById("r+"
+            this.row + "c3");
+            id.innerHTML = this.action;
+
+
         }
     }
 })
