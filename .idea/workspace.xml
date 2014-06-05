@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31a96e1a-786a-46ce-903c-bb675fc409f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/main.js" afterPath="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/person.js" afterPath="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/person.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PWA_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5540897" vertical-offset="0" max-vertical-offset="1260">
-              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.5277045" vertical-offset="0" max-vertical-offset="1260">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,8 +39,8 @@
       <file leaf-file-name="person.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/person.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="980">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="980">
+              <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -82,8 +83,8 @@
         <option value="$PROJECT_DIR$/week1/goal1_assign_duel1/js/main.js" />
         <option value="$PROJECT_DIR$/week2/goal2_assign_duel2/js/main.js" />
         <option value="$PROJECT_DIR$/goal7_Object_Constructor_Prototype/js/main.js" />
-        <option value="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/person.js" />
         <option value="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/main.js" />
+        <option value="$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/person.js" />
       </list>
     </option>
   </component>
@@ -670,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="980">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="980">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -686,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week4/goal7_assign_obj_to_prototypes/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5540897" vertical-offset="0" max-vertical-offset="1260">
-          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.5277045" vertical-offset="0" max-vertical-offset="1260">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
